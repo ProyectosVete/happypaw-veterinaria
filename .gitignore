@@ -1,0 +1,29 @@
+﻿# Dependencias
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Base de datos
+*.sqlite3
+*.db
+db.sqlite3
+
+# Builds y ejecutables
+dist/
+build/
+*.exe
+*.EXE
+
+# Archivos de entorno
+.env
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Backups
+*.backup
+*.bak
